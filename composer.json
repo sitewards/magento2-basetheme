@@ -1,0 +1,11 @@
+{
+    "name": "sitewards/magento2-basetheme",
+    "description": "Magento2 base theme based on Snowdog theme",
+    "version": "0.1.0",
+    "license": "MIT",
+    "type": "magento2-theme",
+    "require": {
+        "snowdog/theme-blank-sass": "~0.10.1",
+        "snowdog/frontools": "~1.4"
+    }
+}
